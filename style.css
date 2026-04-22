@@ -424,6 +424,15 @@ footer p {
     font-weight: 600;
 }
 
+.album-fun-fact {
+    text-align: center;
+    margin-top: 3rem;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+
 .sources-content {
     display: flex;
     flex-direction: column;
